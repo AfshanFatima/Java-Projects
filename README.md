@@ -28,9 +28,9 @@ Implement code step-by-step
 
 Apply core principals of object-oriented design
 
-Everyone hoping to start out in Java needs to practice! It's not enough to learn and watch, but you must try yourself! So enroll in this course and get typing!
+Everyone hoping to start out in Java needs to practice! It's not enough to learn and watch, but you must try yourself!
 
-Note: this course was build for someone who has some working knowledge and familiarity of Java or application design. If you are new to Java, I recommend enrolling in my "Become a Junior Java Software Developer" course first.
+Note: this course was build for someone who has some working knowledge and familiarity of Java or application design.
 
 **What you’ll learn:**
 
@@ -58,7 +58,6 @@ Familiar with Java development environment
 
 Knowledge of object-oriented programming concepts recommended
 
-Consider enrolling in my "Become a Junior Java Software Developer" course
 
 **Who this course is for:**
 
