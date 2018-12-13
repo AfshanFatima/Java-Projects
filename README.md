@@ -70,5 +70,5 @@ Someone preparing for a Java interview
 
 Someone starting a new Java project
 
-Anyone wanting a refresher on object-oriented programming or application architecture.# java projects 
+Anyone wanting a refresher on object-oriented programming or application architecture. 
 
