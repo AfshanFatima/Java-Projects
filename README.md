@@ -4,7 +4,7 @@
 **The BEST way to prepare for a technical interview is to get practice building applications and applying core principles of object-oriented design. This course is  designed to accomplish that objective.**
 
 
-Many people fail interviews because:
+**Many people fail interviews because:**
 
 They don't grasp object-oriented programming concepts
 
@@ -32,7 +32,7 @@ Everyone hoping to start out in Java needs to practice! It's not enough to learn
 
 Note: this course was build for someone who has some working knowledge and familiarity of Java or application design. If you are new to Java, I recommend enrolling in my "Become a Junior Java Software Developer" course first.
 
-What you’ll learn:
+**What you’ll learn:**
 
 Implement core object-oriented programming techniques
 
@@ -60,7 +60,7 @@ Knowledge of object-oriented programming concepts recommended
 
 Consider enrolling in my "Become a Junior Java Software Developer" course
 
-Who this course is for:
+**Who this course is for:**
 
 Current students or recent graduates
 
@@ -71,4 +71,4 @@ Someone preparing for a Java interview
 Someone starting a new Java project
 
 Anyone wanting a refresher on object-oriented programming or application architecture.# java projects 
-# Java Projects
+
